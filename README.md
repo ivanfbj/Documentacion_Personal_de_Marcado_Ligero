@@ -177,11 +177,11 @@ Para insertar imagenes se realizar por medio de la siguiente sintaxis:
 ```
 
 por ejemplo:  
-![texto alternativo si la imagen no carga](Imagenes/noExisteNocarga.png)
+![texto alternativo si la imagen no carga](/Imagenes/noExisteNocarga.png)
 
 otro ejemplo:
 
-![texto alternativo si la imagen no carga](Imagenes/vista_previa_README_md.png)
+![texto alternativo si la imagen no carga](/Imagenes/vista_previa_README_md.png)
 
 ---
 

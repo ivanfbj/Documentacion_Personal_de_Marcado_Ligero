@@ -150,7 +150,7 @@ Se utiliza el acento grave para identificar código, y corchetes para identifica
 Por ejemplo:  
 `Fragmento de código que se requiera añadir`
 
-![ejemplo_codigo.png](Imagenes/ejemplo_codigo.png)
+![ejemplo_codigo.png](https://github.com/ivanfbj/Documentacion_Personal_de_Marcado_Ligero/blob/master/imagenes/ejemplo_codigo.png)
 
 Por ejemplo:
 
@@ -177,11 +177,11 @@ Para insertar imagenes se realizar por medio de la siguiente sintaxis:
 ```
 
 por ejemplo:  
-![texto alternativo si la imagen no carga](/Imagenes/noExisteNocarga.png)
+![texto alternativo si la imagen no carga](https://github.com/ivanfbj/Documentacion_Personal_de_Marcado_Ligero/blob/master/imagenes/NoexisteNoCarga.png)
 
 otro ejemplo:
 
-![texto alternativo si la imagen no carga](/Imagenes/vista_previa_README_md.png)
+![texto alternativo si la imagen no carga](https://github.com/ivanfbj/Documentacion_Personal_de_Marcado_Ligero/blob/master/imagenes/vista_previa_README_md.png)
 
 ---
 
